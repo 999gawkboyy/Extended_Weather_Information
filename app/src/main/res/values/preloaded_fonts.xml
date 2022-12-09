@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/archivo_black</item>
+        <item>@font/belgrano</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/calistoga</item>
+        <item>@font/capriola</item>
+        <item>@font/goldman</item>
+        <item>@font/jaldi</item>
+        <item>@font/jetbrains_mono_thin</item>
+        <item>@font/krona_one</item>
+        <item>@font/lexend_zetta</item>
+        <item>@font/yeon_sung</item>
+    </array>
+</resources>
